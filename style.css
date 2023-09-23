@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+.quadrado {
+  width: 50px;
+  text-align: center;
+  padding: 40px;
+  display: inline-block;
+  background-color: #cac9c9;
+  box-shadow: 2px 2px 2px #616161;
+  margin: 10px;
+  font-size: 60px;
+  color: #cac9c9;
+  cursor: pointer;
+}
+.jogador,
+.vencedor {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.botao {
+  margin-top: 20px;
+  font-size: 20px;
+}
